@@ -1,0 +1,43 @@
+{
+
+    "name": "fe-banner-images",
+    "authors": [
+   
+        "Cory Mosey"
+
+    ],
+
+    "description": "Pull images through folder based data attribute.",
+    "main": "background.php",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/propcom/fe-background.git"
+
+    },
+
+    "keywords": [
+
+        "Banner",
+        "images",
+        "php",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom"
+
+    ],
+
+    "license": "Public",
+    "homepage": "https://github.com/propcom/fe-background.git",
+
+    "ignore" : [
+    ],
+
+    "install" : {
+
+        "background.php" : "fuel/app/classes/controller"
+
+    }
+
+}
